@@ -26,6 +26,13 @@
   </div>
 
   <div class="project">
+    <h3>Mountain Lion Movies</h3>
+    <p>A website for members of the UCCS community to connect over movie interests.</p>
+    <p><a href="https://github.com/Ditmanson/mountainlionmovies" target="_blank">View on GitHub</a></p>
+  </div>
+  
+
+  <div class="project">
     <h3>SEED Labs: Sniffing & Spoofing</h3>
     <p>Completed foundational networking security exercises involving ARP spoofing and packet capture with Wireshark and Scapy.</p>
   </div>
