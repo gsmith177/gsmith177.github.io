@@ -28,7 +28,6 @@
   <div class="project">
     <h3>SEED Labs: Sniffing & Spoofing</h3>
     <p>Completed foundational networking security exercises involving ARP spoofing and packet capture with Wireshark and Scapy.</p>
-    <p><a href="https://github.com/gsmith177/seed-labs" target="_blank">View on GitHub</a></p>
   </div>
 
 </body>
