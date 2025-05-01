@@ -22,7 +22,7 @@
   <div class="project">
     <h3>QuickStock (Rust + React)</h3>
     <p>An inventory management app rebuilt from a Python base using Rust and React for a modern, safe, and responsive system.</p>
-    <p><a href="https://github.com/gsmith17/QuickStock-Rust" target="_blank">View on GitHub</a></p>
+    <p><a href="[https://github.com/gsmith17/QuickStock-Rust](https://github.com/gsmith177/QuickStock-Rust)" target="_blank">View on GitHub</a></p>
   </div>
 
   <div class="project">
